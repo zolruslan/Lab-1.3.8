@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1480536134 source:d:\3-8\help.cpp
+	<CMath>
+	"CEquation.h"
+	"Help.h"
+
+1480369415 d:\3-8\cequation.h
+
+1480343924 d:\3-8\help.h
+	"CEquation.h"
+
+1480535242 source:d:\3-8\main.cpp
+	<iostream>
+	<Cmath>
+	"CEquation.h"
+
+1480601145 source:d:\3-8\cequation.cpp
+	<iostream>
+	"CEquation.h"
+
