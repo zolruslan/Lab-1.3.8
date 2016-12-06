@@ -18,10 +18,23 @@
 	<iostream>
 	"CEquation.h"
 
-1480369440 source:d:\lab-1.3.8\cequation.cpp
+1481014978 source:d:\lab-1.3.8\cequation.cpp
 	<iostream>
-	<CMath>
+	<cmath>
 	"CEquation.h"
 
 1480369415 d:\lab-1.3.8\cequation.h
+
+1480536134 source:d:\lab-1.3.8\help.cpp
+	<CMath>
+	"CEquation.h"
+	"Help.h"
+
+1480343924 d:\lab-1.3.8\help.h
+	"CEquation.h"
+
+1480535242 source:d:\lab-1.3.8\main.cpp
+	<iostream>
+	<Cmath>
+	"CEquation.h"
 
